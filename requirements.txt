@@ -1,5 +1,5 @@
 numpy
-cv2
+opencv_python
 Pillow
 pyttsx3
 streamlit
