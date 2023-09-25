@@ -1,6 +1,6 @@
-numpy==1.23.0
-opencv_python==4.6.0.66
-Pillow==10.0.1
-pyttsx3==2.90
-streamlit==1.13.0
-tensorflow==2.10.0
+numpy
+opencv_python
+Pillow
+pyttsx3
+streamlit
+tensorflow
